@@ -3,8 +3,8 @@ $dev_data = array('id'=>'-1','firstname'=>'Developer','lastname'=>'','username'=
 if(!defined('base_url')) define('base_url','http://localhost/cscs/');
 if(!defined('base_app')) define('base_app', str_replace('\\','/',__DIR__).'/' );
 // if(!defined('dev_data')) define('dev_data',$dev_data);
-if(!defined('DB_SERVER')) define('DB_SERVER',"localhost");
-if(!defined('DB_USERNAME')) define('DB_USERNAME',"root");
-if(!defined('DB_PASSWORD')) define('DB_PASSWORD',"");
-if(!defined('DB_NAME')) define('DB_NAME',"cscs_db");
+if(!defined('bbjcbjnpgu2fpipsyldv-mysql.services.clever-cloud.com')) define('bbjcbjnpgu2fpipsyldv-mysql.services.clever-cloud.com',"");
+if(!defined('u2m7zkuoq3kfo7wn')) define('u2m7zkuoq3kfo7wn',"");
+if(!defined('Gl2llj9I06aTpZ2ZaKWl')) define('Gl2llj9I06aTpZ2ZaKWl',"");
+if(!defined('bbjcbjnpgu2fpipsyldv')) define('bbjcbjnpgu2fpipsyldv',"cscs_db");
 ?>
